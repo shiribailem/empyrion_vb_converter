@@ -1,6 +1,7 @@
 # When an object is missing in the new version, replace with this object (based on key)
 failkey = 'CG_MoneyCard_Silver'
-
+# If true, all items will be "repaired" in the conversion
+resetdecay = False
 
 from sys import argv, stdout
 import json
@@ -36,9 +37,9 @@ newids = {}
 oldids = {}
 
 
-with open(argv[1],'r') as file:
+with open(argv[2],'r') as file:
     newids = json.loads(file.read())
-with open(argv[2], 'r') as file:
+with open(argv[1], 'r') as file:
     oldids = json.loads(file.read())
 
 logger = loggers("virtual_backpack_conversion_log.txt")
@@ -74,6 +75,7 @@ logger.write(f"Found {len(files)} files")
 for filename in files:
     changed = False
     failcount = 0
+    repaircount = 0
     with open(filename, 'r') as file:
         try:
             vb = json.loads(file.read())
@@ -97,6 +99,11 @@ for filename in files:
             continue
 
         for item in itemlist:
+                if item['decay'] > 0 and resetdecay:
+                    item['decay'] = 0
+                    changed = True
+                    repaircount += 1
+
                 oldid = item['id']
                 if item['id'] in faillist:
                     failcount += item['count']
@@ -118,8 +125,11 @@ for filename in files:
         with open(filename, 'w') as file:
             file.write(json.dumps(vb, indent=2))
 
-        if failcount > 0:
-            logger.write(f"Fixed {filename} re-imbursing {failcount} x {failkey}")
+        if failcount > 0 or (repaircount > 0 and resetdecay):
+            if resetdecay:
+                logger.write(f"Fixed {filename}: re-imbursing {failcount} x {failkey}; Repairing {repaircount} items")
+            else:
+                logger.write(f"Fixed {filename} re-imbursing {failcount} x {failkey}")
         else:
             logger.write(f"Fixed {filename}")
     #else:
