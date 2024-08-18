@@ -1,0 +1,724 @@
+2024-08-17 22:28:06.772989: Building conversion table:
+2024-08-17 22:28:06.774335: Success: 4120, Fail: 0
+2024-08-17 22:28:06.774357: Finding json files in :EmpyrionBackpackExtender
+2024-08-17 22:28:06.776896: Found 1504 files
+2024-08-17 22:28:06.777030: File EmpyrionBackpackExtender/Configuration.json does not have a 'Backpacks' key
+2024-08-17 22:28:06.777397: Failed to convert item: {'id': 3147, 'name': None, 'count': 8, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.777901: Fixed EmpyrionBackpackExtender/Faction/100.json re-imbursing 8 x PlatinumCard
+2024-08-17 22:28:06.778254: Fixed EmpyrionBackpackExtender/Faction/249.json
+2024-08-17 22:28:06.780242: Failed to convert item: {'id': 3153, 'name': None, 'count': 4, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.780267: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.780800: Fixed EmpyrionBackpackExtender/Faction/358.json re-imbursing 5 x PlatinumCard
+2024-08-17 22:28:06.781807: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.781836: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.781847: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.781858: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.781868: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.782661: Fixed EmpyrionBackpackExtender/Faction/260.json re-imbursing 250000 x PlatinumCard
+2024-08-17 22:28:06.784210: Failed to convert item: {'id': 3145, 'name': None, 'count': 2, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.784497: Fixed EmpyrionBackpackExtender/Faction/201.json re-imbursing 2 x PlatinumCard
+2024-08-17 22:28:06.785063: Failed to convert item: {'id': 3147, 'name': None, 'count': 3, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.785095: Failed to convert item: {'id': 8028, 'name': None, 'count': 7536, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.785615: Fixed EmpyrionBackpackExtender/Faction/215.json re-imbursing 7539 x PlatinumCard
+2024-08-17 22:28:06.785982: Failed to convert item: {'id': 8028, 'name': None, 'count': 120, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.786250: Fixed EmpyrionBackpackExtender/Faction/337.json re-imbursing 120 x PlatinumCard
+2024-08-17 22:28:06.786543: Failed to load file: EmpyrionBackpackExtender/Origin/1.json
+2024-08-17 22:28:06.789059: Fixed EmpyrionBackpackExtender/Personal/76561199502100834.json
+2024-08-17 22:28:06.790754: Failed to convert item: {'id': 3149, 'name': None, 'count': 2, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.790822: Failed to convert item: {'id': 8071, 'name': None, 'count': 70, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.794382: Fixed EmpyrionBackpackExtender/Personal/76561198068430137.json re-imbursing 72 x PlatinumCard
+2024-08-17 22:28:06.797648: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.797662: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.801196: Fixed EmpyrionBackpackExtender/Personal/76561198845360381.json re-imbursing 20 x PlatinumCard
+2024-08-17 22:28:06.802173: Failed to convert item: {'id': 8027, 'name': None, 'count': 3, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.802187: Failed to convert item: {'id': 8028, 'name': None, 'count': 365, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.802222: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.802258: Failed to convert item: {'id': 3153, 'name': None, 'count': 37, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.802438: Failed to convert item: {'id': 8071, 'name': None, 'count': 10000, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.806403: Fixed EmpyrionBackpackExtender/Personal/76561199040681080.json re-imbursing 60405 x PlatinumCard
+2024-08-17 22:28:06.818779: Failed to convert item: {'id': 8028, 'name': None, 'count': 4480, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818809: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818821: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 9, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818832: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818843: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 12, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818876: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 13, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818899: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818909: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818919: Failed to convert item: {'id': 8028, 'name': None, 'count': 1344, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818929: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818939: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818950: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818960: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818969: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818979: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 23, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.818990: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819000: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 25, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819010: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819020: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819030: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819040: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819050: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819060: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819071: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819081: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819092: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819105: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819116: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819126: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819180: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819215: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 4, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819227: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819239: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819251: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819262: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819273: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 9, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819283: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819294: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819305: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 12, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819341: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 13, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819364: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819389: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819411: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819436: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819446: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819457: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819468: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819478: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819489: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819500: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 23, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819511: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819522: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 25, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819532: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819543: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819554: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819565: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819575: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819586: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819597: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819607: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819618: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819629: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819639: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819650: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819661: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819671: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819682: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819693: Failed to convert item: {'id': 8028, 'name': None, 'count': 3584, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819704: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819714: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819725: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819735: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819746: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819757: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.819767: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 48, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.823491: Fixed EmpyrionBackpackExtender/Personal/76561198134308719.json re-imbursing 3609408 x PlatinumCard
+2024-08-17 22:28:06.824368: Failed to convert item: {'id': 3154, 'name': None, 'count': 157, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.824451: Failed to convert item: {'id': 8029, 'name': None, 'count': 1, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.824472: Failed to convert item: {'id': 8028, 'name': None, 'count': 11600, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.827826: Fixed EmpyrionBackpackExtender/Personal/76561199200944484.json re-imbursing 11758 x PlatinumCard
+2024-08-17 22:28:06.828834: Failed to convert item: {'id': 8028, 'name': None, 'count': 1638, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828856: Failed to convert item: {'id': 3147, 'name': None, 'count': 2, 'slotIdx': 48, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828872: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828882: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828893: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828903: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828915: Failed to convert item: {'id': 3145, 'name': None, 'count': 10, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828926: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.828939: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.832863: Fixed EmpyrionBackpackExtender/Personal/76561198023630922.json re-imbursing 1710 x PlatinumCard
+2024-08-17 22:28:06.834856: Failed to convert item: {'id': 3145, 'name': None, 'count': 1, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.838141: Fixed EmpyrionBackpackExtender/Personal/76561198031113813.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:06.842352: File EmpyrionBackpackExtender/Personal/76561198023922143.json has a backpack with no items
+2024-08-17 22:28:06.847072: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.848646: Fixed EmpyrionBackpackExtender/Personal/76561198139320939.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:06.849609: Failed to convert item: {'id': 3145, 'name': None, 'count': 2, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.851039: Fixed EmpyrionBackpackExtender/Personal/76561198176735414.json re-imbursing 2 x PlatinumCard
+2024-08-17 22:28:06.852524: Failed to convert item: {'id': 3145, 'name': None, 'count': 25, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852552: Failed to convert item: {'id': 3141, 'name': None, 'count': 36, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852573: Failed to convert item: {'id': 3142, 'name': None, 'count': 30, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852585: Failed to convert item: {'id': 3143, 'name': None, 'count': 30, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852595: Failed to convert item: {'id': 3144, 'name': None, 'count': 28, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852630: Failed to convert item: {'id': 3154, 'name': None, 'count': 13, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852666: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852690: Failed to convert item: {'id': 3138, 'name': None, 'count': 30, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852700: Failed to convert item: {'id': 3137, 'name': None, 'count': 30, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852716: Failed to convert item: {'id': 8028, 'name': None, 'count': 17941, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852727: Failed to convert item: {'id': 8029, 'name': None, 'count': 1, 'slotIdx': 4, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852751: Failed to convert item: {'id': 3136, 'name': None, 'count': 1, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.852763: Failed to convert item: {'id': 3147, 'name': None, 'count': 3, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.855596: Fixed EmpyrionBackpackExtender/Personal/76561198018005388.json re-imbursing 18178 x PlatinumCard
+2024-08-17 22:28:06.860059: Failed to convert item: {'id': 8027, 'name': None, 'count': 4, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.862371: Fixed EmpyrionBackpackExtender/Personal/76561197985134192.json re-imbursing 4 x PlatinumCard
+2024-08-17 22:28:06.863913: File EmpyrionBackpackExtender/Personal/76561198004486859.json has a backpack with no items
+2024-08-17 22:28:06.864103: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864110: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864130: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864136: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864141: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864148: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864154: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864159: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.864165: File EmpyrionBackpackExtender/Personal/76561198086380809.json has a backpack with no items
+2024-08-17 22:28:06.868877: Fixed EmpyrionBackpackExtender/Personal/76561197960894903.json
+2024-08-17 22:28:06.869041: File EmpyrionBackpackExtender/Personal/76561198142301297.json has a backpack with no items
+2024-08-17 22:28:06.869048: File EmpyrionBackpackExtender/Personal/76561198142301297.json has a backpack with no items
+2024-08-17 22:28:06.869053: File EmpyrionBackpackExtender/Personal/76561198142301297.json has a backpack with no items
+2024-08-17 22:28:06.872158: Failed to convert item: {'id': 3146, 'name': None, 'count': 1, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.873338: Fixed EmpyrionBackpackExtender/Personal/76561198041802672.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:06.881463: Failed to convert item: {'id': 8028, 'name': None, 'count': 112, 'slotIdx': 48, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.881495: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.881525: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.881552: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.881563: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.881573: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.881584: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.881617: Failed to convert item: {'id': 3136, 'name': None, 'count': 1, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.884792: Fixed EmpyrionBackpackExtender/Personal/76561199199218709.json re-imbursing 164 x PlatinumCard
+2024-08-17 22:28:06.886140: Failed to convert item: {'id': 8028, 'name': None, 'count': 281, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.886154: Failed to convert item: {'id': 8025, 'name': None, 'count': 500, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.886266: Failed to convert item: {'id': 8025, 'name': None, 'count': 102, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.886297: Failed to convert item: {'id': 8026, 'name': None, 'count': 5, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.886308: Failed to convert item: {'id': 8027, 'name': None, 'count': 4, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.886335: Failed to convert item: {'id': 8028, 'name': None, 'count': 48, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.888971: Fixed EmpyrionBackpackExtender/Personal/76561198400403313.json re-imbursing 940 x PlatinumCard
+2024-08-17 22:28:06.891257: File EmpyrionBackpackExtender/Personal/76561198301250741.json has a backpack with no items
+2024-08-17 22:28:06.892524: Failed to convert item: {'id': 3146, 'name': None, 'count': 384, 'slotIdx': 13, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892601: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892628: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892639: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892679: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892702: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892730: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892753: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892778: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 23, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892914: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892926: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892936: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892947: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.892989: Failed to convert item: {'id': 3147, 'name': None, 'count': 48, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.893061: Failed to convert item: {'id': 3145, 'name': None, 'count': 3803, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.896869: Fixed EmpyrionBackpackExtender/Personal/76561199182240176.json re-imbursing 604235 x PlatinumCard
+2024-08-17 22:28:06.899169: Failed to convert item: {'id': 3141, 'name': None, 'count': 30, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.899184: Failed to convert item: {'id': 3143, 'name': None, 'count': 30, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.899196: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.899207: Failed to convert item: {'id': 3142, 'name': None, 'count': 11, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.899218: Failed to convert item: {'id': 3145, 'name': None, 'count': 9, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.899233: Failed to convert item: {'id': 3138, 'name': None, 'count': 20, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.899243: Failed to convert item: {'id': 3137, 'name': None, 'count': 20, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.899358: Failed to convert item: {'id': 8074, 'name': None, 'count': 19, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.902961: Fixed EmpyrionBackpackExtender/Personal/76561198150370101.json re-imbursing 149 x PlatinumCard
+2024-08-17 22:28:06.917722: Failed to convert item: {'id': 8028, 'name': None, 'count': 10, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.917989: Fixed EmpyrionBackpackExtender/Personal/76561198079285971.json re-imbursing 10 x PlatinumCard
+2024-08-17 22:28:06.918247: Failed to convert item: {'id': 8028, 'name': None, 'count': 295, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.918618: Fixed EmpyrionBackpackExtender/Personal/76561198209679593.json re-imbursing 295 x PlatinumCard
+2024-08-17 22:28:06.918905: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.918937: Failed to convert item: {'id': 8028, 'name': None, 'count': 9300, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.919645: Fixed EmpyrionBackpackExtender/Personal/76561198887265427.json re-imbursing 9301 x PlatinumCard
+2024-08-17 22:28:06.921465: Failed to convert item: {'id': 3145, 'name': None, 'count': 20, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921493: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921504: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921515: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921525: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921538: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921548: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921560: Failed to convert item: {'id': 3154, 'name': None, 'count': 4, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921616: Failed to convert item: {'id': 8071, 'name': None, 'count': 196, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921641: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921657: Failed to convert item: {'id': 3139, 'name': None, 'count': 16, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921667: Failed to convert item: {'id': 3140, 'name': None, 'count': 16, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921689: Failed to convert item: {'id': 8028, 'name': None, 'count': 25, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921699: Failed to convert item: {'id': 8027, 'name': None, 'count': 3, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.921713: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.925522: Fixed EmpyrionBackpackExtender/Personal/76561198014496796.json re-imbursing 342 x PlatinumCard
+2024-08-17 22:28:06.926217: Failed to convert item: {'id': 8074, 'name': None, 'count': 672, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.928396: Fixed EmpyrionBackpackExtender/Personal/76561198382168320.json re-imbursing 672 x PlatinumCard
+2024-08-17 22:28:06.929259: Failed to convert item: {'id': 8071, 'name': None, 'count': 94, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.929292: Failed to convert item: {'id': 8071, 'name': None, 'count': 2386, 'slotIdx': 13, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.931351: Fixed EmpyrionBackpackExtender/Personal/76561198023770672.json re-imbursing 2480 x PlatinumCard
+2024-08-17 22:28:06.931721: Fixed EmpyrionBackpackExtender/Personal/76561199440370639.json
+2024-08-17 22:28:06.934268: Failed to convert item: {'id': 8074, 'name': None, 'count': 95, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.935475: Fixed EmpyrionBackpackExtender/Personal/76561198010797633.json re-imbursing 95 x PlatinumCard
+2024-08-17 22:28:06.936468: Failed to convert item: {'id': 8028, 'name': None, 'count': 5400, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.937197: Fixed EmpyrionBackpackExtender/Personal/76561199209574342.json re-imbursing 5400 x PlatinumCard
+2024-08-17 22:28:06.940298: File EmpyrionBackpackExtender/Personal/76561198034431155.json has a backpack with no items
+2024-08-17 22:28:06.940306: File EmpyrionBackpackExtender/Personal/76561198034431155.json has a backpack with no items
+2024-08-17 22:28:06.940311: File EmpyrionBackpackExtender/Personal/76561198034431155.json has a backpack with no items
+2024-08-17 22:28:06.940317: File EmpyrionBackpackExtender/Personal/76561198034431155.json has a backpack with no items
+2024-08-17 22:28:06.940323: File EmpyrionBackpackExtender/Personal/76561198034431155.json has a backpack with no items
+2024-08-17 22:28:06.942703: Failed to convert item: {'id': 3145, 'name': None, 'count': 4, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.942718: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.942752: Failed to convert item: {'id': 8028, 'name': None, 'count': 24290, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.942763: Failed to convert item: {'id': 8027, 'name': None, 'count': 4412, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.942794: Failed to convert item: {'id': 8071, 'name': None, 'count': 320, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.946107: Fixed EmpyrionBackpackExtender/Personal/76561198022227369.json re-imbursing 29027 x PlatinumCard
+2024-08-17 22:28:06.947042: Failed to convert item: {'id': 3140, 'name': None, 'count': 1, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.947722: Fixed EmpyrionBackpackExtender/Personal/76561197985236218.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:06.948984: Failed to convert item: {'id': 3144, 'name': None, 'count': 1, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.950420: Fixed EmpyrionBackpackExtender/Personal/76561198017185166.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:06.951605: Failed to convert item: {'id': 8027, 'name': None, 'count': 650, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951646: Failed to convert item: {'id': 8028, 'name': None, 'count': 30, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951699: Failed to convert item: {'id': 3149, 'name': None, 'count': 2, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951773: Failed to convert item: {'id': 3154, 'name': None, 'count': 19, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951800: Failed to convert item: {'id': 3143, 'name': None, 'count': 4, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951811: Failed to convert item: {'id': 3142, 'name': None, 'count': 4, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951838: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951854: Failed to convert item: {'id': 3136, 'name': None, 'count': 1, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951865: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.951877: Failed to convert item: {'id': 3147, 'name': None, 'count': 2, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.955356: Fixed EmpyrionBackpackExtender/Personal/76561198026268929.json re-imbursing 732 x PlatinumCard
+2024-08-17 22:28:06.956644: Failed to convert item: {'id': 3143, 'name': None, 'count': 7, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.956669: Failed to convert item: {'id': 3138, 'name': None, 'count': 4, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.956736: Failed to convert item: {'id': 3137, 'name': None, 'count': 1, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.956747: Failed to convert item: {'id': 3141, 'name': None, 'count': 13, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.956757: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.956810: Failed to convert item: {'id': 3143, 'name': None, 'count': 3, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.956836: Failed to convert item: {'id': 3138, 'name': None, 'count': 6, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.959674: Fixed EmpyrionBackpackExtender/Personal/76561197984952777.json re-imbursing 44 x PlatinumCard
+2024-08-17 22:28:06.963840: Fixed EmpyrionBackpackExtender/Personal/76561199576394347.json
+2024-08-17 22:28:06.965119: Failed to convert item: {'id': 3139, 'name': None, 'count': 1, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.965135: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.968091: Fixed EmpyrionBackpackExtender/Personal/76561197965196519.json re-imbursing 2 x PlatinumCard
+2024-08-17 22:28:06.971103: Failed to convert item: {'id': 8028, 'name': None, 'count': 50, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.972448: Fixed EmpyrionBackpackExtender/Personal/76561198086153715.json re-imbursing 50 x PlatinumCard
+2024-08-17 22:28:06.974308: Failed to convert item: {'id': 8027, 'name': None, 'count': 2000, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974372: Failed to convert item: {'id': 3144, 'name': None, 'count': 20, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974384: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974396: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974407: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974418: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974429: Failed to convert item: {'id': 3142, 'name': None, 'count': 17, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974439: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.974450: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.978996: Fixed EmpyrionBackpackExtender/Personal/76561197992841627.json re-imbursing 2079 x PlatinumCard
+2024-08-17 22:28:06.980726: Failed to convert item: {'id': 8027, 'name': None, 'count': 8, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.980743: Failed to convert item: {'id': 8028, 'name': None, 'count': 6948, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.981200: Fixed EmpyrionBackpackExtender/Personal/76561197977634810.json re-imbursing 6956 x PlatinumCard
+2024-08-17 22:28:06.982424: Failed to convert item: {'id': 3137, 'name': None, 'count': 5, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.982650: Fixed EmpyrionBackpackExtender/Personal/76561198317613195.json re-imbursing 5 x PlatinumCard
+2024-08-17 22:28:06.983628: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.983752: Fixed EmpyrionBackpackExtender/Personal/76561198282182579.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:06.987738: Failed to convert item: {'id': 3137, 'name': None, 'count': 3, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.987772: Failed to convert item: {'id': 8026, 'name': None, 'count': 100, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.987784: Failed to convert item: {'id': 8027, 'name': None, 'count': 90, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.991556: Fixed EmpyrionBackpackExtender/Personal/76561197976876253.json re-imbursing 193 x PlatinumCard
+2024-08-17 22:28:06.993403: File EmpyrionBackpackExtender/Personal/76561198062540527.json has a backpack with no items
+2024-08-17 22:28:06.996926: Failed to convert item: {'id': 3145, 'name': None, 'count': 10, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:06.996985: Failed to convert item: {'id': 8028, 'name': None, 'count': 551, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.000706: Fixed EmpyrionBackpackExtender/Personal/76561198189181254.json re-imbursing 561 x PlatinumCard
+2024-08-17 22:28:07.001467: Failed to convert item: {'id': 8074, 'name': None, 'count': 99, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.001761: Fixed EmpyrionBackpackExtender/Personal/76561198002553394.json re-imbursing 99 x PlatinumCard
+2024-08-17 22:28:07.002297: Failed to convert item: {'id': 8028, 'name': None, 'count': 112, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.004313: Fixed EmpyrionBackpackExtender/Personal/76561198210346000.json re-imbursing 112 x PlatinumCard
+2024-08-17 22:28:07.009973: Failed to convert item: {'id': 3147, 'name': None, 'count': 11, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.013847: Fixed EmpyrionBackpackExtender/Personal/76561198002812542.json re-imbursing 11 x PlatinumCard
+2024-08-17 22:28:07.016970: Failed to convert item: {'id': 3138, 'name': None, 'count': 1, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.018980: Fixed EmpyrionBackpackExtender/Personal/76561198086717972.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:07.023122: Failed to convert item: {'id': 8073, 'name': None, 'count': 152, 'slotIdx': 4, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.025818: Fixed EmpyrionBackpackExtender/Personal/76561198028120884.json re-imbursing 152 x PlatinumCard
+2024-08-17 22:28:07.037613: File EmpyrionBackpackExtender/Personal/76561198209849647.json has a backpack with no items
+2024-08-17 22:28:07.037621: File EmpyrionBackpackExtender/Personal/76561198209849647.json has a backpack with no items
+2024-08-17 22:28:07.038468: Failed to convert item: {'id': 8071, 'name': None, 'count': 661, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.039181: Fixed EmpyrionBackpackExtender/Personal/76561198137997032.json re-imbursing 661 x PlatinumCard
+2024-08-17 22:28:07.040516: Failed to convert item: {'id': 8027, 'name': None, 'count': 400, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.044350: Fixed EmpyrionBackpackExtender/Personal/76561198818842552.json re-imbursing 400 x PlatinumCard
+2024-08-17 22:28:07.045986: File EmpyrionBackpackExtender/Personal/76561198106667258.json has a backpack with no items
+2024-08-17 22:28:07.048212: Failed to convert item: {'id': 3154, 'name': None, 'count': 5, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.048328: Failed to convert item: {'id': 3149, 'name': None, 'count': 7, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.051670: Fixed EmpyrionBackpackExtender/Personal/76561199247590465.json re-imbursing 12 x PlatinumCard
+2024-08-17 22:28:07.054438: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.054451: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.054463: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.054477: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.054489: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.054500: Failed to convert item: {'id': 8028, 'name': None, 'count': 15100, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.054545: Failed to convert item: {'id': 3145, 'name': None, 'count': 6, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.058313: Fixed EmpyrionBackpackExtender/Personal/76561198057239857.json re-imbursing 265106 x PlatinumCard
+2024-08-17 22:28:07.061029: Failed to convert item: {'id': 8028, 'name': None, 'count': 35, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.063000: Fixed EmpyrionBackpackExtender/Personal/76561198049473366.json re-imbursing 35 x PlatinumCard
+2024-08-17 22:28:07.063378: Failed to convert item: {'id': 8071, 'name': None, 'count': 24, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.063410: Failed to convert item: {'id': 8028, 'name': None, 'count': 65, 'slotIdx': 12, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.063449: Failed to convert item: {'id': 3147, 'name': None, 'count': 3, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.063464: Failed to convert item: {'id': 8027, 'name': None, 'count': 3050, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.065026: Fixed EmpyrionBackpackExtender/Personal/76561198035253138.json re-imbursing 3142 x PlatinumCard
+2024-08-17 22:28:07.067481: Failed to convert item: {'id': 3145, 'name': None, 'count': 10, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.067495: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.067506: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.067531: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.067542: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 4, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.071203: Fixed EmpyrionBackpackExtender/Personal/76561198024420439.json re-imbursing 50 x PlatinumCard
+2024-08-17 22:28:07.071824: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.071839: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.071850: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.071861: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 12, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.071872: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 13, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.071883: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.071894: Failed to convert item: {'id': 3145, 'name': None, 'count': 10, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.074379: Fixed EmpyrionBackpackExtender/Personal/76561198373039319.json re-imbursing 70 x PlatinumCard
+2024-08-17 22:28:07.080511: Failed to convert item: {'id': 3136, 'name': None, 'count': 1, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080526: Failed to convert item: {'id': 3137, 'name': None, 'count': 40, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080537: Failed to convert item: {'id': 3138, 'name': None, 'count': 40, 'slotIdx': 23, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080548: Failed to convert item: {'id': 3141, 'name': None, 'count': 40, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080559: Failed to convert item: {'id': 3142, 'name': None, 'count': 40, 'slotIdx': 25, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080570: Failed to convert item: {'id': 3143, 'name': None, 'count': 40, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080598: Failed to convert item: {'id': 3144, 'name': None, 'count': 40, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080609: Failed to convert item: {'id': 3147, 'name': None, 'count': 2, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.080635: Failed to convert item: {'id': 3154, 'name': None, 'count': 7, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.084482: Fixed EmpyrionBackpackExtender/Personal/76561198038256282.json re-imbursing 250 x PlatinumCard
+2024-08-17 22:28:07.085838: Failed to convert item: {'id': 3136, 'name': None, 'count': 4, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.086304: Fixed EmpyrionBackpackExtender/Personal/76561198072438411.json re-imbursing 4 x PlatinumCard
+2024-08-17 22:28:07.086678: Failed to convert item: {'id': 8025, 'name': None, 'count': 500, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.088155: Fixed EmpyrionBackpackExtender/Personal/76561198114164232.json re-imbursing 500 x PlatinumCard
+2024-08-17 22:28:07.093012: Fixed EmpyrionBackpackExtender/Personal/76561199439269743.json
+2024-08-17 22:28:07.101804: File EmpyrionBackpackExtender/Personal/76561199073230721.json has a backpack with no items
+2024-08-17 22:28:07.103230: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.103274: Failed to convert item: {'id': 8028, 'name': None, 'count': 47788, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.106466: Fixed EmpyrionBackpackExtender/Personal/76561198176392483.json re-imbursing 97788 x PlatinumCard
+2024-08-17 22:28:07.114590: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.118221: Fixed EmpyrionBackpackExtender/Personal/76561198981172350.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:07.122652: Failed to convert item: {'id': 3149, 'name': None, 'count': 1, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.122677: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.122689: Failed to convert item: {'id': 3137, 'name': None, 'count': 4, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.122700: Failed to convert item: {'id': 3138, 'name': None, 'count': 4, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.122713: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.122723: Failed to convert item: {'id': 3143, 'name': None, 'count': 2, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.122734: Failed to convert item: {'id': 3141, 'name': None, 'count': 1, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.126221: Fixed EmpyrionBackpackExtender/Personal/76561198050777674.json re-imbursing 14 x PlatinumCard
+2024-08-17 22:28:07.127984: Failed to convert item: {'id': 8028, 'name': None, 'count': 1100, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.128107: Failed to convert item: {'id': 3145, 'name': None, 'count': 20, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.131340: Fixed EmpyrionBackpackExtender/Personal/76561198277643657.json re-imbursing 1120 x PlatinumCard
+2024-08-17 22:28:07.133264: Failed to convert item: {'id': 3147, 'name': None, 'count': 6, 'slotIdx': 13, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.137496: Fixed EmpyrionBackpackExtender/Personal/76561198127221587.json re-imbursing 6 x PlatinumCard
+2024-08-17 22:28:07.137757: File EmpyrionBackpackExtender/Personal/76561199223143799.json has a backpack with no items
+2024-08-17 22:28:07.137763: File EmpyrionBackpackExtender/Personal/76561199223143799.json has a backpack with no items
+2024-08-17 22:28:07.137769: File EmpyrionBackpackExtender/Personal/76561199223143799.json has a backpack with no items
+2024-08-17 22:28:07.137775: File EmpyrionBackpackExtender/Personal/76561199223143799.json has a backpack with no items
+2024-08-17 22:28:07.144827: Fixed EmpyrionBackpackExtender/Personal/76561198093100795.json
+2024-08-17 22:28:07.147399: Failed to convert item: {'id': 3145, 'name': None, 'count': 10, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147413: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147424: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147437: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147447: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147458: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147468: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147525: Failed to convert item: {'id': 8029, 'name': None, 'count': 1, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147540: Failed to convert item: {'id': 8028, 'name': None, 'count': 900, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.147555: Failed to convert item: {'id': 8027, 'name': None, 'count': 4, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.150345: Fixed EmpyrionBackpackExtender/Personal/76561198319057225.json re-imbursing 975 x PlatinumCard
+2024-08-17 22:28:07.150978: File EmpyrionBackpackExtender/Personal/76561198132322211.json has a backpack with no items
+2024-08-17 22:28:07.154964: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.157834: Fixed EmpyrionBackpackExtender/Personal/76561198094125378.json re-imbursing 50000 x PlatinumCard
+2024-08-17 22:28:07.159522: Failed to convert item: {'id': 3145, 'name': None, 'count': 6, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.159536: Failed to convert item: {'id': 3142, 'name': None, 'count': 11, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.159550: Failed to convert item: {'id': 3144, 'name': None, 'count': 1, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.159577: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.163406: Fixed EmpyrionBackpackExtender/Personal/76561198003408936.json re-imbursing 19 x PlatinumCard
+2024-08-17 22:28:07.167068: Fixed EmpyrionBackpackExtender/Personal/76561198085661289.json
+2024-08-17 22:28:07.169438: Failed to convert item: {'id': 3147, 'name': None, 'count': 6, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.169474: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.169526: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.169537: Failed to convert item: {'id': 3147, 'name': None, 'count': 2, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.171137: Fixed EmpyrionBackpackExtender/Personal/76561198340234001.json re-imbursing 10 x PlatinumCard
+2024-08-17 22:28:07.172791: Failed to convert item: {'id': 3149, 'name': None, 'count': 43, 'slotIdx': 12, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.172827: Failed to convert item: {'id': 8028, 'name': None, 'count': 50000, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.172839: Failed to convert item: {'id': 8028, 'name': None, 'count': 15757, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.176256: Fixed EmpyrionBackpackExtender/Personal/76561198224568404.json re-imbursing 65800 x PlatinumCard
+2024-08-17 22:28:07.179115: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.179494: Fixed EmpyrionBackpackExtender/Personal/76561198062575579.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:07.181902: Failed to convert item: {'id': 3149, 'name': None, 'count': 2, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.181930: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.182505: Fixed EmpyrionBackpackExtender/Personal/76561198327682859.json re-imbursing 3 x PlatinumCard
+2024-08-17 22:28:07.184500: Failed to convert item: {'id': 3145, 'name': None, 'count': 1, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.184519: Failed to convert item: {'id': 8028, 'name': None, 'count': 2799, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.184531: Failed to convert item: {'id': 8027, 'name': None, 'count': 2, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.185039: Fixed EmpyrionBackpackExtender/Personal/76561198065005463.json re-imbursing 2802 x PlatinumCard
+2024-08-17 22:28:07.186725: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.190531: Fixed EmpyrionBackpackExtender/Personal/76561198035794646.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:07.191269: Failed to convert item: {'id': 3154, 'name': None, 'count': 2, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191282: Failed to convert item: {'id': 3145, 'name': None, 'count': 16, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191294: Failed to convert item: {'id': 3142, 'name': None, 'count': 29, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191305: Failed to convert item: {'id': 3144, 'name': None, 'count': 28, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191330: Failed to convert item: {'id': 3139, 'name': None, 'count': 9, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191341: Failed to convert item: {'id': 3140, 'name': None, 'count': 9, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191351: Failed to convert item: {'id': 3141, 'name': None, 'count': 37, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191361: Failed to convert item: {'id': 3143, 'name': None, 'count': 37, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.191372: Failed to convert item: {'id': 3147, 'name': None, 'count': 6, 'slotIdx': 9, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.193370: Fixed EmpyrionBackpackExtender/Personal/76561199143416404.json re-imbursing 173 x PlatinumCard
+2024-08-17 22:28:07.193663: File EmpyrionBackpackExtender/Personal/76561198041554656.json has a backpack with no items
+2024-08-17 22:28:07.194291: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.194325: Failed to convert item: {'id': 3145, 'name': None, 'count': 2, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.195923: Fixed EmpyrionBackpackExtender/Personal/76561198392333943.json re-imbursing 3 x PlatinumCard
+2024-08-17 22:28:07.198031: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.198133: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.198527: Fixed EmpyrionBackpackExtender/Personal/76561198067795359.json re-imbursing 2 x PlatinumCard
+2024-08-17 22:28:07.205746: Failed to convert item: {'id': 8027, 'name': None, 'count': 6, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205761: Failed to convert item: {'id': 8028, 'name': None, 'count': 20014, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205782: Failed to convert item: {'id': 8073, 'name': None, 'count': 478, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205889: Failed to convert item: {'id': 3147, 'name': None, 'count': 5, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205908: Failed to convert item: {'id': 3143, 'name': None, 'count': 22, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205918: Failed to convert item: {'id': 3141, 'name': None, 'count': 22, 'slotIdx': 25, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205932: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205943: Failed to convert item: {'id': 3145, 'name': None, 'count': 10, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.205953: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.209082: Fixed EmpyrionBackpackExtender/Personal/76561198090029846.json re-imbursing 20577 x PlatinumCard
+2024-08-17 22:28:07.212076: Failed to convert item: {'id': 3147, 'name': None, 'count': 2, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.212091: Failed to convert item: {'id': 3137, 'name': None, 'count': 1, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.212145: Failed to convert item: {'id': 3136, 'name': None, 'count': 1, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.215223: Fixed EmpyrionBackpackExtender/Personal/76561198075776369.json re-imbursing 4 x PlatinumCard
+2024-08-17 22:28:07.216636: Failed to convert item: {'id': 8028, 'name': None, 'count': 4149, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.216683: Failed to convert item: {'id': 3135, 'name': None, 'count': 10, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.216739: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.216791: Failed to convert item: {'id': 3149, 'name': None, 'count': 1, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.220542: Fixed EmpyrionBackpackExtender/Personal/76561198083329461.json re-imbursing 4161 x PlatinumCard
+2024-08-17 22:28:07.220971: Failed to convert item: {'id': 8028, 'name': None, 'count': 27, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.221128: Fixed EmpyrionBackpackExtender/Personal/76561198060882032.json re-imbursing 27 x PlatinumCard
+2024-08-17 22:28:07.222825: File EmpyrionBackpackExtender/Personal/76561199129798861.json has a backpack with no items
+2024-08-17 22:28:07.222833: File EmpyrionBackpackExtender/Personal/76561199129798861.json has a backpack with no items
+2024-08-17 22:28:07.224526: Failed to convert item: {'id': 8028, 'name': None, 'count': 5959, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.225085: Fixed EmpyrionBackpackExtender/Personal/76561198028311106.json re-imbursing 5959 x PlatinumCard
+2024-08-17 22:28:07.225838: Failed to convert item: {'id': 8028, 'name': None, 'count': 64, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.228510: Fixed EmpyrionBackpackExtender/Personal/76561198028816423.json re-imbursing 64 x PlatinumCard
+2024-08-17 22:28:07.228815: Failed to convert item: {'id': 3145, 'name': None, 'count': 10, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.229668: Fixed EmpyrionBackpackExtender/Personal/76561198375832445.json re-imbursing 10 x PlatinumCard
+2024-08-17 22:28:07.233490: Failed to convert item: {'id': 8028, 'name': None, 'count': 5, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.235106: Fixed EmpyrionBackpackExtender/Personal/76561198143710231.json re-imbursing 5 x PlatinumCard
+2024-08-17 22:28:07.239799: Failed to convert item: {'id': 3144, 'name': None, 'count': 8, 'slotIdx': 9, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.239814: Failed to convert item: {'id': 3142, 'name': None, 'count': 8, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.240361: Fixed EmpyrionBackpackExtender/Personal/76561198347592259.json re-imbursing 16 x PlatinumCard
+2024-08-17 22:28:07.243610: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 4, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.243624: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.243635: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.243661: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 9, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.243707: Failed to convert item: {'id': 3142, 'name': None, 'count': 18, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.243733: Failed to convert item: {'id': 3144, 'name': None, 'count': 18, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.243756: Failed to convert item: {'id': 3145, 'name': None, 'count': 14, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.243781: Failed to convert item: {'id': 3154, 'name': None, 'count': 2, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.248120: Fixed EmpyrionBackpackExtender/Personal/76561198325762882.json re-imbursing 92 x PlatinumCard
+2024-08-17 22:28:07.249424: Failed to convert item: {'id': 3143, 'name': None, 'count': 2, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.249467: Failed to convert item: {'id': 8028, 'name': None, 'count': 977, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.249485: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.249495: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.250858: Fixed EmpyrionBackpackExtender/Personal/76561198147556432.json re-imbursing 999 x PlatinumCard
+2024-08-17 22:28:07.251593: Failed to convert item: {'id': 8028, 'name': None, 'count': 11, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.252804: Fixed EmpyrionBackpackExtender/Personal/76561198043073143.json re-imbursing 11 x PlatinumCard
+2024-08-17 22:28:07.253046: Failed to convert item: {'id': 3154, 'name': None, 'count': 2, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.253848: Fixed EmpyrionBackpackExtender/Personal/76561197971174470.json re-imbursing 2 x PlatinumCard
+2024-08-17 22:28:07.254598: Failed to convert item: {'id': 3153, 'name': None, 'count': 1, 'slotIdx': 14, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254612: Failed to convert item: {'id': 3147, 'name': None, 'count': 5, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254623: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254643: Failed to convert item: {'id': 3135, 'name': None, 'count': 2, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254654: Failed to convert item: {'id': 3142, 'name': None, 'count': 4, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254675: Failed to convert item: {'id': 3137, 'name': None, 'count': 6, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254687: Failed to convert item: {'id': 3145, 'name': None, 'count': 14, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254699: Failed to convert item: {'id': 3141, 'name': None, 'count': 2, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254738: Failed to convert item: {'id': 8028, 'name': None, 'count': 370, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.254749: Failed to convert item: {'id': 8027, 'name': None, 'count': 10, 'slotIdx': 9, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.257936: Fixed EmpyrionBackpackExtender/Personal/76561198036994518.json re-imbursing 415 x PlatinumCard
+2024-08-17 22:28:07.261040: Failed to convert item: {'id': 8028, 'name': None, 'count': 19707, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.261073: Failed to convert item: {'id': 3145, 'name': None, 'count': 11, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.264480: Fixed EmpyrionBackpackExtender/Personal/76561199231095586.json re-imbursing 19718 x PlatinumCard
+2024-08-17 22:28:07.267396: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.268386: Fixed EmpyrionBackpackExtender/Personal/76561198088833139.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:07.273015: Fixed EmpyrionBackpackExtender/Personal/76561197973915920.json
+2024-08-17 22:28:07.274265: Failed to convert item: {'id': 3142, 'name': None, 'count': 4, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.274293: Failed to convert item: {'id': 3144, 'name': None, 'count': 2, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.274309: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.274325: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.274335: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.274357: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.274368: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 24, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.274379: Failed to convert item: {'id': 3145, 'name': None, 'count': 3, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.278742: Fixed EmpyrionBackpackExtender/Personal/76561198158690690.json re-imbursing 50 x PlatinumCard
+2024-08-17 22:28:07.281158: Failed to convert item: {'id': 3145, 'name': None, 'count': 20, 'slotIdx': 48, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.281223: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.281281: Failed to convert item: {'id': 3142, 'name': None, 'count': 20, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.281293: Failed to convert item: {'id': 3144, 'name': None, 'count': 12, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.281304: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 48, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.285257: Fixed EmpyrionBackpackExtender/Personal/76561198283198499.json re-imbursing 63 x PlatinumCard
+2024-08-17 22:28:07.289598: Failed to convert item: {'id': 3145, 'name': None, 'count': 1, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.289906: Fixed EmpyrionBackpackExtender/Personal/76561198205514936.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:07.290934: Failed to convert item: {'id': 3143, 'name': None, 'count': 11, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.290947: Failed to convert item: {'id': 3137, 'name': None, 'count': 1, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.290969: Failed to convert item: {'id': 3135, 'name': None, 'count': 1, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.290983: Failed to convert item: {'id': 3147, 'name': None, 'count': 11, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.290993: Failed to convert item: {'id': 3141, 'name': None, 'count': 6, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.291003: Failed to convert item: {'id': 3138, 'name': None, 'count': 6, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.291014: Failed to convert item: {'id': 3136, 'name': None, 'count': 1, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.291049: Failed to convert item: {'id': 3149, 'name': None, 'count': 1, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.294304: Fixed EmpyrionBackpackExtender/Personal/76561198041022601.json re-imbursing 38 x PlatinumCard
+2024-08-17 22:28:07.297291: Failed to convert item: {'id': 8073, 'name': None, 'count': 2074, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.297318: Failed to convert item: {'id': 3148, 'name': None, 'count': 5, 'slotIdx': 26, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.297349: Failed to convert item: {'id': 3138, 'name': None, 'count': 7, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.297361: Failed to convert item: {'id': 3141, 'name': None, 'count': 3, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.297373: Failed to convert item: {'id': 3143, 'name': None, 'count': 3, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.297387: Failed to convert item: {'id': 3147, 'name': None, 'count': 6, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.297469: Failed to convert item: {'id': 3145, 'name': None, 'count': 13, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.300199: Fixed EmpyrionBackpackExtender/Personal/76561197979823439.json re-imbursing 2111 x PlatinumCard
+2024-08-17 22:28:07.300960: File EmpyrionBackpackExtender/Personal/76561197972267514.json has a backpack with no items
+2024-08-17 22:28:07.300966: File EmpyrionBackpackExtender/Personal/76561197972267514.json has a backpack with no items
+2024-08-17 22:28:07.300986: File EmpyrionBackpackExtender/Personal/76561197972267514.json has a backpack with no items
+2024-08-17 22:28:07.302319: File EmpyrionBackpackExtender/Personal/76561198208983944.json has a backpack with no items
+2024-08-17 22:28:07.303314: File EmpyrionBackpackExtender/Personal/76561198017321085.json has a backpack with no items
+2024-08-17 22:28:07.303321: File EmpyrionBackpackExtender/Personal/76561198017321085.json has a backpack with no items
+2024-08-17 22:28:07.303327: File EmpyrionBackpackExtender/Personal/76561198017321085.json has a backpack with no items
+2024-08-17 22:28:07.303347: File EmpyrionBackpackExtender/Personal/76561198017321085.json has a backpack with no items
+2024-08-17 22:28:07.304391: File EmpyrionBackpackExtender/Personal/76561197976897100.json has a backpack with no items
+2024-08-17 22:28:07.306305: Failed to convert item: {'id': 3149, 'name': None, 'count': 1, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.307205: Fixed EmpyrionBackpackExtender/Personal/76561198052824404.json re-imbursing 1 x PlatinumCard
+2024-08-17 22:28:07.308869: Failed to convert item: {'id': 3143, 'name': None, 'count': 3, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.308883: Failed to convert item: {'id': 3144, 'name': None, 'count': 3, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.308893: Failed to convert item: {'id': 3142, 'name': None, 'count': 1, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.308904: Failed to convert item: {'id': 3141, 'name': None, 'count': 3, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.308924: Failed to convert item: {'id': 3145, 'name': None, 'count': 1, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.309004: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.313270: Fixed EmpyrionBackpackExtender/Personal/76561199733498174.json re-imbursing 12 x PlatinumCard
+2024-08-17 22:28:07.314681: Failed to convert item: {'id': 8028, 'name': None, 'count': 1149, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.314821: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.318260: Fixed EmpyrionBackpackExtender/Personal/76561198132553946.json re-imbursing 1150 x PlatinumCard
+2024-08-17 22:28:07.321729: Fixed EmpyrionBackpackExtender/Personal/76561198323638349.json
+2024-08-17 22:28:07.324136: Failed to convert item: {'id': 8028, 'name': None, 'count': 9583, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.325333: Fixed EmpyrionBackpackExtender/Personal/76561198054649576.json re-imbursing 9583 x PlatinumCard
+2024-08-17 22:28:07.326267: Failed to convert item: {'id': 3145, 'name': None, 'count': 22, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.326407: Failed to convert item: {'id': 3142, 'name': None, 'count': 15, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.326434: Failed to convert item: {'id': 3144, 'name': None, 'count': 6, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.326444: Failed to convert item: {'id': 3141, 'name': None, 'count': 22, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.326455: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.326501: Failed to convert item: {'id': 8029, 'name': None, 'count': 1, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.329947: Fixed EmpyrionBackpackExtender/Personal/76561198034613137.json re-imbursing 76 x PlatinumCard
+2024-08-17 22:28:07.333221: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.333306: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.333318: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.333329: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.333356: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.333411: Failed to convert item: {'id': 8028, 'name': None, 'count': 436, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.336849: Fixed EmpyrionBackpackExtender/Personal/76561198352120448.json re-imbursing 477 x PlatinumCard
+2024-08-17 22:28:07.341315: Failed to convert item: {'id': 3143, 'name': None, 'count': 6, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.341329: Failed to convert item: {'id': 3141, 'name': None, 'count': 5, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.343796: Fixed EmpyrionBackpackExtender/Personal/76561198071269453.json re-imbursing 11 x PlatinumCard
+2024-08-17 22:28:07.344939: Failed to convert item: {'id': 8028, 'name': None, 'count': 26, 'slotIdx': 12, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.347007: Fixed EmpyrionBackpackExtender/Personal/76561198200237015.json re-imbursing 26 x PlatinumCard
+2024-08-17 22:28:07.354915: Failed to convert item: {'id': 8028, 'name': None, 'count': 75, 'slotIdx': 48, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.357128: Fixed EmpyrionBackpackExtender/Personal/76561199049734848.json re-imbursing 75 x PlatinumCard
+2024-08-17 22:28:07.361213: File EmpyrionBackpackExtender/Personal/76561198021495243.json has a backpack with no items
+2024-08-17 22:28:07.362434: Failed to convert item: {'id': 3145, 'name': None, 'count': 8, 'slotIdx': 16, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.362448: Failed to convert item: {'id': 3144, 'name': None, 'count': 10, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.362459: Failed to convert item: {'id': 3143, 'name': None, 'count': 10, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.362469: Failed to convert item: {'id': 3142, 'name': None, 'count': 10, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.362480: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.362490: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.362500: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 22, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.364932: Fixed EmpyrionBackpackExtender/Personal/76561198065197106.json re-imbursing 68 x PlatinumCard
+2024-08-17 22:28:07.366274: Failed to convert item: {'id': 8028, 'name': None, 'count': 37493, 'slotIdx': 23, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.366827: Fixed EmpyrionBackpackExtender/Personal/76561198009845938.json re-imbursing 37493 x PlatinumCard
+2024-08-17 22:28:07.367579: Failed to convert item: {'id': 8028, 'name': None, 'count': 22801, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367618: Failed to convert item: {'id': 3136, 'name': None, 'count': 4, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367636: Failed to convert item: {'id': 3138, 'name': None, 'count': 23, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367761: Failed to convert item: {'id': 3141, 'name': None, 'count': 33, 'slotIdx': 17, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367786: Failed to convert item: {'id': 3142, 'name': None, 'count': 20, 'slotIdx': 18, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367796: Failed to convert item: {'id': 3143, 'name': None, 'count': 30, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367807: Failed to convert item: {'id': 3144, 'name': None, 'count': 20, 'slotIdx': 20, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367817: Failed to convert item: {'id': 3137, 'name': None, 'count': 20, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367844: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.367858: Failed to convert item: {'id': 3145, 'name': None, 'count': 20, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.371584: Fixed EmpyrionBackpackExtender/Personal/76561198072129812.json re-imbursing 22972 x PlatinumCard
+2024-08-17 22:28:07.372173: File EmpyrionBackpackExtender/Personal/76561198046395064.json has a backpack with no items
+2024-08-17 22:28:07.376189: Failed to convert item: {'id': 8028, 'name': None, 'count': 12828, 'slotIdx': 46, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.376208: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.376229: Failed to convert item: {'id': 3145, 'name': None, 'count': 61, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.376240: Failed to convert item: {'id': 3142, 'name': None, 'count': 22, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.376250: Failed to convert item: {'id': 3144, 'name': None, 'count': 11, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.376305: Failed to convert item: {'id': 8027, 'name': None, 'count': 18611, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.380422: Fixed EmpyrionBackpackExtender/Personal/76561197964180804.json re-imbursing 31534 x PlatinumCard
+2024-08-17 22:28:07.382635: Failed to convert item: {'id': 3147, 'name': None, 'count': 10, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382655: Failed to convert item: {'id': 3144, 'name': None, 'count': 27, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382666: Failed to convert item: {'id': 3142, 'name': None, 'count': 25, 'slotIdx': 36, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382677: Failed to convert item: {'id': 3145, 'name': None, 'count': 12, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382687: Failed to convert item: {'id': 3154, 'name': None, 'count': 4, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382698: Failed to convert item: {'id': 3141, 'name': None, 'count': 22, 'slotIdx': 43, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382709: Failed to convert item: {'id': 3143, 'name': None, 'count': 23, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382719: Failed to convert item: {'id': 3137, 'name': None, 'count': 20, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.382730: Failed to convert item: {'id': 3138, 'name': None, 'count': 20, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.386582: Fixed EmpyrionBackpackExtender/Personal/76561199446359405.json re-imbursing 163 x PlatinumCard
+2024-08-17 22:28:07.387706: File EmpyrionBackpackExtender/Personal/76561198023462207.json has a backpack with no items
+2024-08-17 22:28:07.387789: Failed to convert item: {'id': 8028, 'name': None, 'count': 4109, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.388108: Fixed EmpyrionBackpackExtender/Personal/76561198067554769.json re-imbursing 4109 x PlatinumCard
+2024-08-17 22:28:07.395450: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.395484: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.398124: Fixed EmpyrionBackpackExtender/Personal/76561197965176295.json re-imbursing 2 x PlatinumCard
+2024-08-17 22:28:07.399304: Failed to convert item: {'id': 8028, 'name': None, 'count': 12129, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.399370: Failed to convert item: {'id': 3149, 'name': None, 'count': 6, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.401231: Fixed EmpyrionBackpackExtender/Personal/76561198085453046.json re-imbursing 12135 x PlatinumCard
+2024-08-17 22:28:07.406304: File EmpyrionBackpackExtender/Personal/76561198159702123.json has a backpack with no items
+2024-08-17 22:28:07.407767: Failed to convert item: {'id': 3145, 'name': None, 'count': 56, 'slotIdx': 47, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.411988: Fixed EmpyrionBackpackExtender/Personal/76561198820595758.json re-imbursing 56 x PlatinumCard
+2024-08-17 22:28:07.412480: Failed to convert item: {'id': 3137, 'name': None, 'count': 1, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.412497: Failed to convert item: {'id': 3139, 'name': None, 'count': 2, 'slotIdx': 44, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.412511: Failed to convert item: {'id': 3147, 'name': None, 'count': 4, 'slotIdx': 45, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.413738: Fixed EmpyrionBackpackExtender/Personal/76561198251127926.json re-imbursing 7 x PlatinumCard
+2024-08-17 22:28:07.418064: Failed to convert item: {'id': 8028, 'name': None, 'count': 578, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.418092: Failed to convert item: {'id': 3145, 'name': None, 'count': 1, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.418167: Failed to convert item: {'id': 3143, 'name': None, 'count': 20, 'slotIdx': 38, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.418178: Failed to convert item: {'id': 3141, 'name': None, 'count': 20, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.418188: Failed to convert item: {'id': 3144, 'name': None, 'count': 14, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.418199: Failed to convert item: {'id': 3142, 'name': None, 'count': 14, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.418234: Failed to convert item: {'id': 3145, 'name': None, 'count': 9, 'slotIdx': 11, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.420614: Fixed EmpyrionBackpackExtender/Personal/76561198198560806.json re-imbursing 656 x PlatinumCard
+2024-08-17 22:28:07.421125: Failed to convert item: {'id': 8028, 'name': None, 'count': 20, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421229: Failed to convert item: {'id': 3136, 'name': None, 'count': 2, 'slotIdx': 19, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421244: Failed to convert item: {'id': 3143, 'name': None, 'count': 17, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421255: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421265: Failed to convert item: {'id': 3142, 'name': None, 'count': 25, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421290: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421328: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421338: Failed to convert item: {'id': 3144, 'name': None, 'count': 23, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.421376: Failed to convert item: {'id': 3141, 'name': None, 'count': 18, 'slotIdx': 35, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.423449: Fixed EmpyrionBackpackExtender/Personal/76561199066825026.json re-imbursing 126 x PlatinumCard
+2024-08-17 22:28:07.425467: Failed to convert item: {'id': 8028, 'name': None, 'count': 30087, 'slotIdx': 37, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.425578: Failed to convert item: {'id': 3141, 'name': None, 'count': 140, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.425590: Failed to convert item: {'id': 3142, 'name': None, 'count': 56, 'slotIdx': 28, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.425600: Failed to convert item: {'id': 3143, 'name': None, 'count': 170, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.425610: Failed to convert item: {'id': 3144, 'name': None, 'count': 66, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.425621: Failed to convert item: {'id': 3145, 'name': None, 'count': 112, 'slotIdx': 31, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.429397: Fixed EmpyrionBackpackExtender/Personal/76561198264136350.json re-imbursing 30631 x PlatinumCard
+2024-08-17 22:28:07.432489: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.432553: Failed to convert item: {'id': 3138, 'name': None, 'count': 10, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.432565: Failed to convert item: {'id': 3137, 'name': None, 'count': 8, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.432575: Failed to convert item: {'id': 3143, 'name': None, 'count': 1, 'slotIdx': 34, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.432602: Failed to convert item: {'id': 3147, 'name': None, 'count': 4, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.432614: Failed to convert item: {'id': 8028, 'name': None, 'count': 280, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.432624: Failed to convert item: {'id': 8027, 'name': None, 'count': 4, 'slotIdx': 33, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.436268: Fixed EmpyrionBackpackExtender/Personal/76561198058350416.json re-imbursing 308 x PlatinumCard
+2024-08-17 22:28:07.441698: Fixed EmpyrionBackpackExtender/Personal/76561198355503546.json
+2024-08-17 22:28:07.443962: Failed to convert item: {'id': 3136, 'name': None, 'count': 1, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.443978: Failed to convert item: {'id': 3151, 'name': None, 'count': 1, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.443989: Failed to convert item: {'id': 3144, 'name': None, 'count': 35, 'slotIdx': 1, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444018: Failed to convert item: {'id': 3143, 'name': None, 'count': 51, 'slotIdx': 2, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444032: Failed to convert item: {'id': 3142, 'name': None, 'count': 40, 'slotIdx': 3, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444044: Failed to convert item: {'id': 3137, 'name': None, 'count': 50, 'slotIdx': 4, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444057: Failed to convert item: {'id': 3138, 'name': None, 'count': 36, 'slotIdx': 5, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444069: Failed to convert item: {'id': 3139, 'name': None, 'count': 8, 'slotIdx': 6, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444096: Failed to convert item: {'id': 3141, 'name': None, 'count': 60, 'slotIdx': 7, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444189: Failed to convert item: {'id': 3152, 'name': None, 'count': 2, 'slotIdx': 48, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444226: Failed to convert item: {'id': 3154, 'name': None, 'count': 1, 'slotIdx': 12, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444283: Failed to convert item: {'id': 3147, 'name': None, 'count': 14, 'slotIdx': 27, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.444298: Failed to convert item: {'id': 3145, 'name': None, 'count': 81, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.448098: Fixed EmpyrionBackpackExtender/Personal/76561198156713436.json re-imbursing 380 x PlatinumCard
+2024-08-17 22:28:07.452850: Failed to convert item: {'id': 3145, 'name': None, 'count': 2, 'slotIdx': 8, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.452865: Failed to convert item: {'id': 3143, 'name': None, 'count': 3, 'slotIdx': 9, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.452913: Failed to convert item: {'id': 3142, 'name': None, 'count': 7, 'slotIdx': 10, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.453038: Failed to convert item: {'id': 3145, 'name': None, 'count': 7, 'slotIdx': 39, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.456702: Fixed EmpyrionBackpackExtender/Personal/76561198005771856.json re-imbursing 19 x PlatinumCard
+2024-08-17 22:28:07.457603: Failed to convert item: {'id': 8071, 'name': None, 'count': 653, 'slotIdx': 0, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.457641: Failed to convert item: {'id': 8028, 'name': None, 'count': 5549, 'slotIdx': 21, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.457701: Failed to convert item: {'id': 8073, 'name': None, 'count': 500, 'slotIdx': 23, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.461385: Fixed EmpyrionBackpackExtender/Personal/76561198058720226.json re-imbursing 6702 x PlatinumCard
+2024-08-17 22:28:07.464109: Failed to convert item: {'id': 3145, 'name': None, 'count': 1, 'slotIdx': 29, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.464123: Failed to convert item: {'id': 3137, 'name': None, 'count': 10, 'slotIdx': 30, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.464135: Failed to convert item: {'id': 3141, 'name': None, 'count': 10, 'slotIdx': 32, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.466062: Fixed EmpyrionBackpackExtender/Personal/76561199189315642.json re-imbursing 21 x PlatinumCard
+2024-08-17 22:28:07.466985: Fixed EmpyrionBackpackExtender/Personal/76561198038245406.json
+2024-08-17 22:28:07.468748: Failed to convert item: {'id': 3148, 'name': None, 'count': 1, 'slotIdx': 15, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.468784: Failed to convert item: {'id': 3139, 'name': None, 'count': 1, 'slotIdx': 40, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.468796: Failed to convert item: {'id': 3147, 'name': None, 'count': 1, 'slotIdx': 41, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.470414: Fixed EmpyrionBackpackExtender/Personal/76561198003186998.json re-imbursing 3 x PlatinumCard
+2024-08-17 22:28:07.471237: Failed to convert item: {'id': 3145, 'name': None, 'count': 1, 'slotIdx': 42, 'ammo': 0, 'decay': 0}
+2024-08-17 22:28:07.474590: Fixed EmpyrionBackpackExtender/Personal/76561198215284359.json re-imbursing 1 x PlatinumCard
