@@ -1,6 +1,6 @@
 # When an object is missing in the new version, replace with this object (based on key)
 failkey = 'CG_MoneyCard_Silver'
-# If true, all items will be "repaired" in the conversion
+# If True, all items will be "repaired" in the conversion
 resetdecay = False
 
 from sys import argv, stdout
